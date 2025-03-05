@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ValidationTV</string>
+    <string name="module_voice_launcher">语音首页</string>
+    <string name="module_voice_recipe">菜谱</string>
+    <string name="module_permissions">权限相关</string>
+    <string name="module_performance">性能测试</string>
+    <string name="module_flow">Flow</string>
+    <string name="module_other">其他</string>
 </resources>

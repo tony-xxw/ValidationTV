@@ -17,8 +17,9 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+
 }
 
 rootProject.name = "ValidationTV"
 include(":app")
- 
+include(":platform")
